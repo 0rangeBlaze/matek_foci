@@ -1,4 +1,5 @@
-![[Screenshot from 2024-05-16 14-30-37.png]]
+![Itt képnek kéne megjelennie](<Screenshot from 2024-05-16 14-30-37.png>)
+
 ## Feladat
 
 ## Megnevezések
